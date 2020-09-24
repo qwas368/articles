@@ -17,7 +17,9 @@ A -- f2 --> A
 A -- f3 --> A
 ```
 
-##
+## 連結
+* [影片連結](https://www.youtube.com/watch?v=p54Hd7AmVFU&t=514s)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDE5MjA0MV19
+eyJoaXN0b3J5IjpbLTk3OTQzOTk5MSwtNzAwMTkyMDQxXX0=
 -->
