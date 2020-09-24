@@ -1,7 +1,5 @@
 # Category Theory 1.2: What is a category?
 
-[影片連結](https://www.youtube.com/watch?v=p54Hd7AmVFU&t=514s)
-
 
 * Composition
 * Identity
@@ -21,5 +19,5 @@ A -- f3 --> A
 * [影片連結](https://www.youtube.com/watch?v=p54Hd7AmVFU&t=514s)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTQzOTk5MSwtNzAwMTkyMDQxXX0=
+eyJoaXN0b3J5IjpbMTAzMjIyNTE3OCwtNzAwMTkyMDQxXX0=
 -->
