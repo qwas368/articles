@@ -1,6 +1,6 @@
 # Category Theory 1.2: What is a category?
-
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p54Hd7AmVFU/0.jpg)](https://www.youtube.com/watch?v=p54Hd7AmVFU)
+[
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p54Hd7AmVFU/default.jpg)](https://www.youtube.com/watch?v=p54Hd7AmVFU)
 
 * Composition
 * Identity
@@ -20,6 +20,6 @@ A -- f3 --> A
 * [影片連結](https://www.youtube.com/watch?v=p54Hd7AmVFUs)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODQzMTM1NSwtMTEwNDAxMjgyMiwxMD
+eyJoaXN0b3J5IjpbMTI4NDUzODc3NSwtMTEwNDAxMjgyMiwxMD
 MyMjI1MTc4LC03MDAxOTIwNDFdfQ==
 -->
