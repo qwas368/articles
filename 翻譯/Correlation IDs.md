@@ -6,8 +6,9 @@
 以下是一些普遍會遇到的挑戰：
 * 了解客戶請求進入應用程序的end to end行為變得有挑戰性
 * 聚合：整合來自多個元件的日誌，並理解這些日誌是困難的。
-* 對服務、事件流程和非同步請求的
+* 對服務、事件流程和非同步請求的循環依賴不容易解譯
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDAzMTU5NCwtMTgwMjg2MDYzMSwxMz
-czOTI5NjI1XX0=
+eyJoaXN0b3J5IjpbLTQ1NTU1NzIsLTE4MDI4NjA2MzEsMTM3Mz
+kyOTYyNV19
 -->
